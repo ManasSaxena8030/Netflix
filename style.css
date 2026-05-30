@@ -146,16 +146,18 @@ nav button {
 }
 
 .secImg img {
-    width: 55px;
+    width: 555px;
     position: relative;
     z-index: 10;
 }
 
 .secImg video {
     position: absolute;
-    top: 51px;
-    right: 0;
-    width: 555px;
+    top: 21%;
+    left: 13.5%;
+    width: 73%;
+    height: 54%;
+    z-index: 1;
 }
 
 section.first>div {
@@ -239,10 +241,6 @@ footer .questions {
     }
 
     .secImg img {
-        width: 305px;
-    }
-
-    .secImg video {
         width: 305px;
     }
 
